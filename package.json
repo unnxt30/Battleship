@@ -1,0 +1,14 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "### Project for [The Odin Project](https://theodinproject.com) Implementing test driven development.",
+  "main": "gameboard.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
